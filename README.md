@@ -12,4 +12,6 @@ Simplemente se debe modificar el archivo principal de configuraciones.
 
 Fue probado correctamente en un NodeMCU v3 pero debería soportar todas las placas soportadas por el proyecto original ya que no se tocó el núcleo.
 
+Los scripts para borrar o grabar pueden ser encontrados en la carpeta __bin__ junto con la imagen binaria precompilada. Requieren tener __esptool.py__ instalado.
+
 - loladrone
